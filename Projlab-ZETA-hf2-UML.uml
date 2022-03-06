@@ -1098,8 +1098,8 @@
 <XPD:REF name="Model">Pi5sxVBjGEyXcs8C4qeLbQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="TailRoleNameLabel" type="EdgeLabelView" guid="3OSbighG7kS/2RCZJabDnwAA">
-<XPD:ATTR name="Alpha" type="real">-0.468375749630613</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">41.5932686861708</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-0.38515741226061</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">39.9249295553543</XPD:ATTR>
 <XPD:ATTR name="EdgePosition" type="EdgePositionKind">epTail</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">-standingField</XPD:ATTR>
 <XPD:REF name="Model">CyNyMXpg1Em9ZEiqgwWMhAAA</XPD:REF>
@@ -1833,8 +1833,8 @@
 <XPD:REF name="Model">T1LPlRFvdk+3hfcOhD4KbQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="HeadRoleNameLabel" type="EdgeLabelView" guid="ZmU8W+Y73U6ZN7oYuBTtNQAA">
-<XPD:ATTR name="Alpha" type="real">-0.921795970212951</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">32.5729949498047</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-0.578079381861233</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">42.8018691180654</XPD:ATTR>
 <XPD:ATTR name="EdgePosition" type="EdgePositionKind">epHead</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">-agents</XPD:ATTR>
 <XPD:REF name="Model">ak4Zt8Q7eUWdmevWMJ3qOgAA</XPD:REF>
@@ -2824,7 +2824,7 @@
 <XPD:REF name="Associations[1]">Tat9nZDhfU+s2wrRBt38rgAA</XPD:REF>
 <XPD:ATTR name="#Attributes" type="integer">1</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="QVIUU7dHtEiYWAEfq3RTLwAA">
-<XPD:ATTR name="Name" type="string">capacity</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Capacity</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">int</XPD:ATTR>
 <XPD:REF name="Owner">N2oXumJ9hUu2cyapWTbkLgAA</XPD:REF>
@@ -3782,7 +3782,7 @@
 <XPD:REF name="Associations[4]">xbpYPMssq0u6izPvjPaP3gAA</XPD:REF>
 <XPD:ATTR name="#Attributes" type="integer">1</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="+ZgXIrY0EE25PgqmniUYBAAA">
-<XPD:ATTR name="Name" type="string">gCName</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">GCName</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">string</XPD:ATTR>
 <XPD:REF name="Owner">3QrgIyHbNECfvYbKHfBzIwAA</XPD:REF>
