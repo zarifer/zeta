@@ -5388,7 +5388,7 @@
 <XPD:REF name="Owner">/eW9Djp8S0q00+kNTY1I7wAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="HPR7PjXx0E+9llW7dmimlAAA">
-<XPD:ATTR name="Name" type="string">Experiation</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Expiration</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="Changeability" type="UMLChangeableKind">ckFrozen</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">int</XPD:ATTR>
