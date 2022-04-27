@@ -1,0 +1,10 @@
+create Field Field
+create Field Lab
+Oblivion
+create Virologist Field1 false false false false 0 0 0 0 0 0
+setneighbor Field1 Lab1
+next
+move
+Lab1
+y
+quit

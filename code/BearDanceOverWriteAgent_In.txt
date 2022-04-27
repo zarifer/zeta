@@ -1,0 +1,11 @@
+create Field Field
+create Field Field
+create Field Field
+setneighbor Field1 Field2
+create Virologist F1 false false false true 0 0 0 0 0 0
+create Virologist F2 false true false false 0 0 0 0 0 0
+create Virologist F3 false false false false 0 0 0 0 0 0
+next
+next
+Field2
+Field1

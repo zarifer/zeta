@@ -1,0 +1,24 @@
+Commands:
+	next
+	create Field <field_objectname>
+	create Virologist <fieldID> <immunity> <paralyzed> <dancing> <beardancing> <aminoacidNR> <nukleotidNR> <glovesNR> <sackNR> <cloakNR> <axeNR> <GCode_name1> <GCode_name2> ... <GCode_nameN>
+	setneighbor <fieldID1> <fieldID2>
+	move
+	equip <first character>
+	takeoff <first character>
+	createagent
+	attack
+	quit
+New Field Field1
+New Field Field2
+Field1 neighbors: Field2 
+Field2 neighbors: Field1 
+New Virologist V1
+New Virologist V2
+V1 under VitusDance, skip step.
+V2 turn.
+Select neighbor: Field2 
+Virologist moved to Field2
+V1 under VitusDance, skip step.
+V2 turn.
+Game over.

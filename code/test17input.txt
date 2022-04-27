@@ -1,0 +1,10 @@
+create Field Field
+create Field Shelter
+create Virologist Field1 false false false false 0 0 0 0 0 0
+setneighbor Field1 Shelter1
+next
+move
+Shelter1
+y
+Axe
+quit

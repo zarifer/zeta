@@ -1,0 +1,28 @@
+Commands:
+	next
+	create Field <field_objectname>
+	create Virologist <fieldID> <immunity> <paralyzed> <dancing> <beardancing> <aminoacidNR> <nukleotidNR> <glovesNR> <sackNR> <cloakNR> <axeNR> <GCode_name1> <GCode_name2> ... <GCode_nameN>
+	setneighbor <fieldID1> <fieldID2>
+	move
+	equip <first character>
+	takeoff <first character>
+	createagent
+	attack
+	quit
+New Field Field1
+New Virologist V1
+New Virologist V2
+V1 turn.
+GCode known for: Oblivion 
+Aminoacid found.
+Nukleotid found.
+Create agent successful.
+V2 turn.
+Cloak found.
+Equip successful.
+V1 turn.
+Attackable: V1 V2 
+Oblivion
+Wanna defend with cloak? (Y/N)
+V2 Oblivion1 infection defended, Cloak lost.
+Game over.

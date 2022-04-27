@@ -1,0 +1,6 @@
+create Field Field
+create Virologist Field1 false false false false 2 1 0 0 0 0 VitusDance
+next
+createagent
+VitusDance
+quit

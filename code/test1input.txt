@@ -1,0 +1,11 @@
+create Field Field
+create Virologist Field1 false false false false 1 1 0 0 0 0 Paralysis
+create Virologist Field1 false false false false 0 0 0 0 0 0
+next
+createagent
+Paralysis
+attack
+V2
+Paralysis
+n
+quit

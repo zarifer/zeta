@@ -1,0 +1,23 @@
+Commands:
+	next
+	create Field <field_objectname>
+	create Virologist <fieldID> <immunity> <paralyzed> <dancing> <beardancing> <aminoacidNR> <nukleotidNR> <glovesNR> <sackNR> <cloakNR> <axeNR> <GCode_name1> <GCode_name2> ... <GCode_nameN>
+	setneighbor <fieldID1> <fieldID2>
+	move
+	equip <first character>
+	takeoff <first character>
+	createagent
+	attack
+	quit
+New Field Field1
+What type of genetic code should be on this labor? (Oblivion/Immunity/VitusDance/Paralysis)
+New Field Lab1
+New Virologist V1
+Field1 neighbors: Lab1 
+Lab1 neighbors: Field1 
+V1 turn.
+Select neighbor: Lab1 
+Virologist moved to Lab1
+Wanna touchy? (Y/N)
+Known codes: 1
+Game over.

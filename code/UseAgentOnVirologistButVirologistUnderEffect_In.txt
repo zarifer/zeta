@@ -1,0 +1,9 @@
+createField Field
+createVirologist Field1 true false false false 1 1 0 0 0 0 Oblivion
+createVirologist Field1 fasle false false false 0 0 0 0 0 0
+next
+createAgent
+Oblivion
+attack
+V2
+Oblivion

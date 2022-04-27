@@ -1,0 +1,9 @@
+create Field Field
+create Field Storage
+setneighbor Field1 Storage1
+create Virologist Field1 false false false false 0 0 0 0 0 0
+next
+move
+Storage1
+y
+Aminoacid

@@ -1,0 +1,33 @@
+Commands:
+	next
+	create Field <field_objectname>
+	create Virologist <fieldID> <immunity> <paralyzed> <dancing> <beardancing> <aminoacidNR> <nukleotidNR> <glovesNR> <sackNR> <cloakNR> <axeNR> <GCode_name1> <GCode_name2> ... <GCode_nameN>
+	setneighbor <fieldID1> <fieldID2>
+	move
+	equip <first character>
+	takeoff <first character>
+	createagent
+	attack
+	quit
+New Field Field1
+New Virologist V1
+New Virologist V2
+V1 turn.
+V2 turn.
+Axe found.
+Equip successful.
+Gloves found.
+Equip successful.
+V1 turn.
+GCode known for: Paralysis 
+Aminoacid found.
+Nukleotid found.
+Create agent successful.
+Attackable: V1 V2 
+Paralysis
+Wanna use Axe? (Y/N)
+Wanna use Gloves? (Y/N)
+V1 Paralysis1 infection succesful.
+Wanna steal? (Y/N)
+V2 Paralysis1 infection defended, Gloves usable: 2.
+Game over.

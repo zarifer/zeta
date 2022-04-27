@@ -1,0 +1,10 @@
+create Field Field
+create Field InfectedLab
+Immunity
+create Virologist Field1 false false false false 0 0 0 0 0 0
+setneighbor Field1 InfectedLab1
+next
+move
+InfectedLab1
+y
+quit
