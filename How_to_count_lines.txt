@@ -1,5 +1,0 @@
-Install the Eclipse Metrics Plugin. 
-To create a HTML report (with optional XML and CSV) right-click a project -> Export -> Other -> Metrics.
-
-You can adjust the Lines of Code metrics by ignoring blank and comment-only lines or exclude Javadoc if you want. 
-To do this check the tab at Preferences -> Metrics -> LoC.
